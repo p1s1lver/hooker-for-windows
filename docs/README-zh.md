@@ -32,3 +32,11 @@ radar增强项目源码: https://github.com/CreditTone/radar4hooker
 
 还是推荐原项目地址：https://github.com/CreditTone/hooker 中的工具使用介绍
 原作者的 README 写得很通俗易懂 ~
+
+
+## 使用截图(非全部功能)
+
+[hooker attach](screenshots/hooker-attach.png)
+[hooker a command](screenshots/hooker-a.png)
+[hooker c command](screenshots/hooker-c.png)
+[hooker j command](screenshots/hooker-j.png)
